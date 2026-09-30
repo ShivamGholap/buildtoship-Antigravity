@@ -1,0 +1,53 @@
+{
+  "appName": "KrishiMitra AI",
+  "appTagline": "AI-Powered Agriculture Crop Advisory Assistant",
+  "nav": {
+    "dashboard": "Dashboard",
+    "advisories": "Advisories",
+    "farms": "My Farms",
+    "profile": "Profile",
+    "newAdvisory": "New Advisory",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out"
+  },
+  "disclaimer": {
+    "short": "AI-generated advisory. Please verify chemical dosages and practices with your local Krishi Vigyan Kendra (KVK) or agriculture officer before application.",
+    "badge": "Advisory Guidance"
+  },
+  "advisoryTypes": {
+    "crop_recommendation": "Crop Recommendation",
+    "disease_diagnosis": "Pest & Disease Diagnosis",
+    "fertilizer_plan": "Fertilizer & Nutrient Plan",
+    "irrigation_plan": "Irrigation & Water Plan",
+    "seasonal_calendar": "Seasonal Crop Calendar"
+  },
+  "actions": {
+    "submit": "Generate Advisory",
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "print": "Print Advisory",
+    "copyText": "Copy as Text",
+    "regenerate": "Regenerate",
+    "askQuestion": "Ask Question",
+    "back": "Back",
+    "viewDetails": "View Advisory"
+  },
+  "chat": {
+    "title": "Follow-up Questions",
+    "subtitle": "Ask questions specifically about this advisory and your farm context.",
+    "placeholder": "Ask follow-up question (e.g., When should I apply the first spray?)...",
+    "limitNotice": "You have used {used} of 20 follow-up questions.",
+    "limitReached": "Maximum 20 questions reached for this advisory."
+  },
+  "feedback": {
+    "title": "Was this advisory helpful?",
+    "yes": "Helpful",
+    "no": "Needs Improvement",
+    "commentPlaceholder": "Optional feedback or notes...",
+    "submit": "Submit Feedback",
+    "thankYou": "Thank you for your feedback!"
+  }
+}
